@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationTaxReturnCalculator.TestConsole", "DonationTaxReturnCalculator.TestConsole\DonationTaxReturnCalculator.TestConsole.csproj", "{7704F4DC-FE74-4AE6-957A-B636260A646E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationTaxReturnCalculator.Tests", "DonationTaxReturnCalculator.Tests\DonationTaxReturnCalculator.Tests.csproj", "{FCF4D286-7F8F-456F-8D72-C709DE31EC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7704F4DC-FE74-4AE6-957A-B636260A646E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7704F4DC-FE74-4AE6-957A-B636260A646E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7704F4DC-FE74-4AE6-957A-B636260A646E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7704F4DC-FE74-4AE6-957A-B636260A646E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF4D286-7F8F-456F-8D72-C709DE31EC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF4D286-7F8F-456F-8D72-C709DE31EC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF4D286-7F8F-456F-8D72-C709DE31EC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF4D286-7F8F-456F-8D72-C709DE31EC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699BC919-1068-48DC-9D68-FE169652D1D0}
+	EndGlobalSection
+EndGlobal
